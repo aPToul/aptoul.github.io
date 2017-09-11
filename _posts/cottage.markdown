@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "August 14, 2017"
+date:   2017-08-14 12:00:00
+preview: https://unsplash.it/300/300
+---
+
+![Picture 1](https://unsplash.it/800/600)
+
+Wood hissing in rain.
+Open pupils, 
+Reflecting flames.
+

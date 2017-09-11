@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 
@@ -10,8 +10,8 @@ The “Haiku” was invented and developed over hundreds of years in Japan to be
 
 Above all a Haiku must be very simple and free of all poetic trickery and make a little picture and yet be as airy and graceful as a Vivaldi Pastorella. Here is a great Japanese Haiku that is simpler and prettier than any Haiku I could ever write in any language:
 
-A day of quiet gladness,
-Mount Fuji is veiled
-In misty rain.
+A day of quiet gladness,  
+Mount Fuji is veiled  
+In misty rain.  
 (Basho) (1664-1694)
 

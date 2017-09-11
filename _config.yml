@@ -1,6 +1,6 @@
 # Site settings
-description: > # this means to ignore newlines until "baseurl:"
-  Moments captured in Haiku
+title: Haiku Journal
+description: Moments captured in Haiku
 
 
 # Build settings

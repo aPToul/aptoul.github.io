@@ -1,5 +1,4 @@
 # Site settings
-title: Poetry Journal
 description: > # this means to ignore newlines until "baseurl:"
   Moments captured in Haiku
 
@@ -7,3 +6,4 @@ description: > # this means to ignore newlines until "baseurl:"
 # Build settings
 markdown: kramdown
 permalink: pretty
+

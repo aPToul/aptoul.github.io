@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2017-06-27 12:00:00
-preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/twinkling-pond.jpg
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/twinkling-pond.JPG
 ---
 
 Fallen white petals,  

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  ""
+date:   2017-08-11 12:00:00
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/cottage.jpg
+---
+
+Flash of lightning –  
+Silhouette of a bare tree  
+fades in the night fog.
+

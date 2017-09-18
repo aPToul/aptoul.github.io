@@ -1,0 +1,11 @@
+---
+layout: post
+title:  ""
+date:   2017-09-09 12:00:00
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/roots.jpg
+---
+
+Back with my lamp,  
+where I practiced mathematics  
+‘till it overheated.
+

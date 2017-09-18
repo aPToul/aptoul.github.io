@@ -1,0 +1,12 @@
+---
+layout: post
+title:  ""
+date:   2017-08-22 12:00:00
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/doubts.jpg
+---
+
+The train window is clearer:  
+something has left me lighter  
+like the air 
+of a flute.
+

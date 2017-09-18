@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 date:   2017-08-20 12:00:00
-preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/cottage.jpg
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/fire2.jpg
 ---
 
 The train horn echoes  

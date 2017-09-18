@@ -1,0 +1,11 @@
+---
+layout: post
+title:  ""
+date:   2017-08-07 12:00:00
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/mochi.png
+---
+
+Sinking to the touch,  
+mouthful of mochi  
+filling smiling cheeks.
+

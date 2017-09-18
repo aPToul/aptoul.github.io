@@ -1,0 +1,12 @@
+---
+layout: post
+title:  ""
+date:   2017-08-03 12:00:00
+preview: https://raw.githubusercontent.com/aPToul/aPToul.github.io/master/_images/curry.jpg
+---
+
+Big bowl of curry:  
+Moving slow in Tokyo,  
+Takeshita Street.
+
+
